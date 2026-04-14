@@ -21,6 +21,9 @@ A full-stack task management system with projects, tasks, authentication, and ro
 - Dark mode toggle persisted to localStorage
 - Stats endpoint (`GET /projects/:id/stats`) for task counts
 
+  <img width="1440" height="717" alt="image" src="https://github.com/user-attachments/assets/19acfd2d-0073-46fc-b9f8-87d602aa022d" />
+
+
 ---
 
 ## 2. Architecture Decisions
