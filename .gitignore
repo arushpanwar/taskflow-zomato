@@ -1,0 +1,24 @@
+# Environment — NEVER commit
+.env
+
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Build outputs
+frontend/dist/
+backend/server
+
+# Go
+*.test
+*.prof
+/tmp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
